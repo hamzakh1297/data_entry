@@ -13,7 +13,7 @@
 
 <div class="container main-div mt-5">
     <div class="form-heading text-center">
-        <h2 class="mb-5">Login</h2>
+        <h2 class="mb-5">Login Mode</h2>
     </div>
   <form action="/action_page.php">
     <div class="form-group">
