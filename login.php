@@ -25,7 +25,7 @@
             <input type="password" id="password" class="form-control">
         </div>
         <div class="submit-btn mt-5 text-center">
-            <a href="#" class="btn-lg btn-success">Submit</a>
+            <a href="#" class="btn-lg btn-danger">Submit</a>
         </div>
     </form>
 </div>
