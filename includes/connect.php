@@ -21,4 +21,10 @@
 		return $data;
 	}
 
+	//redirect function
+	function redirectTo($url) {
+		header('Location: '.$url);
+		die();
+	}
+
 ?>

@@ -11,3 +11,6 @@ form label{
     font-weight: bold;
     font-size: 14px;
 }
+.main-div{
+    max-width: 500px !important;
+}
