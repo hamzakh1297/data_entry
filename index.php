@@ -1,6 +1,4 @@
-<?php require_once 'includes/connect.php'; 
-redirectTo('login.php');
-?>
+<?php require_once 'includes/connect.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +13,8 @@ redirectTo('login.php');
 </head>
 <body>
 
-	<h2 class="bg-secondary text-white text-center p-3">Members Management</h2>
+	
+<h2 class="bg-secondary text-white text-center p-3">Members Management</h2>
 
 	<div class="container mb-0 pb-0 d-flex justify-content-between align-items-center">
 		<?php 
