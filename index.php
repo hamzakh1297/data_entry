@@ -1,4 +1,6 @@
-<?php require_once 'includes/connect.php'; ?>
+<?php require_once 'includes/connect.php'; 
+	redirectTo('login.php');
+?>
 
 <!DOCTYPE html>
 <html lang="en">
